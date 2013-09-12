@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/users/litaos/!svn/ver/26/oosd/project1/lib
+END
+jinput-raw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/users/litaos/!svn/ver/26/oosd/project1/lib/jinput-raw.dll
+END
+lwjgl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/litaos/!svn/ver/23/oosd/project1/lib/lwjgl.jar
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/users/litaos/!svn/ver/23/oosd/project1/lib/libjinput-osx.jnilib
+END
+slick.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/litaos/!svn/ver/23/oosd/project1/lib/slick.jar
+END
+lwjgl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/users/litaos/!svn/ver/26/oosd/project1/lib/lwjgl.dll
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/users/litaos/!svn/ver/26/oosd/project1/lib/OpenAL32.dll
+END
+jinput-dx8.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/users/litaos/!svn/ver/26/oosd/project1/lib/jinput-dx8.dll
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/users/litaos/!svn/ver/23/oosd/project1/lib/liblwjgl.jnilib
+END
